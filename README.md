@@ -45,7 +45,7 @@ This API enables educators to:
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:Kelvyn2012/lesson-plan-api.git
 cd lesson-plan-api
 ```
 
